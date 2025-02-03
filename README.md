@@ -1,2 +1,2 @@
 # seniordesign
-Config files for my GitHub profile.
+Files for my senior design project
